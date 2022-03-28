@@ -13,7 +13,7 @@ class CardCustomizado extends StatelessWidget {
   }) : super(key: key);
 
   final String tipo;
-  final HomeController controller;
+  final LocalConversorController controller;
   final List<TextInputFormatter> inputFormater;
   final String labelTexto;
   final String helperTexto;

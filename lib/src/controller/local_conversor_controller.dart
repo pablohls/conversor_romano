@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class HomeController extends ChangeNotifier {
+class LocalConversorController extends ChangeNotifier {
   final RegExp _regexp = RegExp(
       r'^(M{0,65})(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$',
       caseSensitive: false);

@@ -11,7 +11,7 @@ class LocalConversorPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final controller = context.watch<HomeController>();
+    final controller = context.watch<LocalConversorController>();
     return Scaffold(
       appBar: AppBar(title: const Text("Conversor")),
       body: Form(
