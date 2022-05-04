@@ -1,16 +1,12 @@
-# converter
+# Conversor numerais romanos para arábicos.
 
-A new Flutter project.
+Projeto desenvolvido com a proposta de converter numereais romanos
+para numerais arábicos e vice e versa.
 
-## Getting Started
+A conversão é feita tanto com processamento local, usando logica desenvolvida
+e que pode ser conferida no respectivos scripts, tanto com o uso de uma API.
 
-This project is a starting point for a Flutter application.
+Na tela inicial é possivel fazer a seleção de qual forma será executada a conversão.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A aplicação foi hosteada no Firebase e pode ser testada no seguinte link:
+https://conversor-romano-arabico.firebaseapp.com/#/
